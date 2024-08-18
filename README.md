@@ -9,3 +9,5 @@ The entire set of 100 photos is available [here](https://github.com/waitblock/wi
 Individual pictures can be accessed from this repository or the web. Each photo has an ID number from 00-99, which corresponds to its filename in this repository and on the web. To access pictures from the web, use the URL https://waitblock.github.io/wikimedia-commons-fp-set/images/--.jpg, where -- is replaced by the photo's ID number.
 
 To find the source on Wikimedia Commons for each photo, please refer to the [website](https://waitblock.github.io/wikimedia-commons-fp-set/).
+
+*Disclaimer: This project is in no way affiliated with or supported by the Wikimedia Foundation.*
