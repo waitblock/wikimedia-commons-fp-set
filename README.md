@@ -1,6 +1,6 @@
 # Wikimedia Commons Featured Pictures Set
 
-<a href="https://commons.wikimedia.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Commons-logo-en.svg/684px-Commons-logo-en.svg.png" height="100" width="auto" style="padding: 10px" /></a><a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png" height="50" width="auto" style="padding: 10px"/></a>
+<a href="https://commons.wikimedia.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Commons-logo-en.svg/684px-Commons-logo-en.svg.png" height="100" width="auto" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png" height="50" width="auto" /></a>
 
 This is a set of 100 photographs that have reached featured picture status on Wikimedia Commons and are also in the public domain. Originally, this set of photographs was created to test a photo processing application.
 
